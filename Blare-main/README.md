@@ -2,10 +2,6 @@
 The Blare clock's <b>theme</b> is an f1 race car themed clock because the creator love carsss. <br> <ul>
 <li>the top of the case is intentionally left open for us to admire the beautiful Seeed XIAO ESP32C3 and the art on the PCB as it resembles the beauty of the clock like we admire a car by seeing its engine  </li>
 <li>The clock normally shows the time but when you set the alarm lets say fot 6am , at 6am it buzzes and plays the selected ringtone and a <b>random sequence </b>will appear on the display you need to enter the sequence displayed correctly to disarm the alarm </li><br></ul>
-<img width="992" height="390" alt="Screenshot 2026-09-06 175111" src="https://github.com/user-attachments/assets/f6299e10-fc92-47e0-bb1d-25d32b8f9770" />
-<img width="737" height="268" alt="image" src="https://github.com/user-attachments/assets/d99bc229-3750-46c2-9b64-c60609497e28" />
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fbda0b19-b5f0-4e24-86cc-8de4820d7879" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/923f2d3f-0205-4115-b477-88e11db99ecd" />
 
